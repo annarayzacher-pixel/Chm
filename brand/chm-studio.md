@@ -22,15 +22,24 @@ Aktualizuj, gdy zmieni się oferta, liczby albo strona.
 
 ## Oferta
 
-Pozycjonowanie: **zewnętrzny dział graficzny** – dla startupów, które ruszają, i marek, które dorosły do nowej wersji siebie.
+**Zarabiamy na brandingu i stronach www** – to są główne produkty i na nich skupiają się treści sprzedażowe.
+
+**Wyróżnik: nie zostawiamy klientów samych.** Opiekujemy się klientem przed, w trakcie i po realizacji brandingu czy strony:
+
+- **przed** – strategia, audyt marki, audyt strony, ustalenie kierunku,
+- **w trakcie** – projekt, w którym klient wie, co się dzieje i dlaczego,
+- **po** – wdrożenie, marketing, kampanie, materiały, rozwój marki.
+
+Strategia, marketing i kampanie są „dookoła” brandingu i www – wspierają główny projekt, nie są osobnym produktem do promowania.
 
 Usługi według potrzeby klienta (tak jak na stronie):
 
 1. **Nowa marka** – kompleksowy branding i tożsamość wizualna od pierwszego dnia. CTA: „Projektuję markę”.
 2. **Rebranding** – nowa strategia wizualna dla firm, które przerosły dotychczasowy wygląd. CTA: „Zmieniam markę”.
-3. **Usługi graficzne dla firm (abonament)** – dedykowany zespół projektowy w ramach abonamentu, „grafika zawsze wtedy, gdy jej potrzebujesz”. CTA: „Biorę abonament”. **Kluczowy model biznesowy – na IG dotąd prawie nieobecny.**
+3. **Strony internetowe** – landing page i strony firmowe (UX, design, wdrożenie).
+4. Usługi graficzne w abonamencie – **nisza**, nie eksponować na IG.
 
-Pełny zakres: strategia (audyt marki, audyt strony), branding, projekty graficzne (katalogi, broszury, e-booki, materiały marketingowe), strony internetowe (landing page, strony firmowe), marketing.
+Pełny zakres: strategia (audyt marki, audyt strony), branding, projekty graficzne (katalogi, broszury, e-booki, materiały marketingowe), strony internetowe, marketing.
 
 ## Ton
 
@@ -68,14 +77,14 @@ Inni klienci z IG: Bagietka, Hyggeli, ZoomDent, Truskawkowe Pole, Salut Hola, Pa
 - **Najlepiej:** proces i kulisy prawdziwych realizacji z nazwą klienta (Patterns World 207 ♥, Bagietka 183, proces strony 128), konkretne listy („Dobre logo, czyli jakie?” 114), metamorfozy i „X błędów na stronie” (najwięcej komentarzy).
 - **Słabo:** podręcznikowe karuzele edukacyjne (RWD, makiety UX: 23–35 ♥), ogólne ciekawostki (kolor roku, fonty).
 - Reelsy średnio 66 ♥, karuzele 40 ♥, mediana całości ~53 ♥.
-- **Luki:** brak postów o abonamencie, brak opinii klientów, rzadko „od 2008”, miękkie CTA, ogólne angielskie hashtagi.
+- **Luki:** nie widać opieki przed/w trakcie/po (wyróżnik), brak opinii klientów, rzadko „od 2008”, miękkie CTA, ogólne angielskie hashtagi.
 - **Problem nr 1:** brak publikacji od 3.10.2025 – profil wygląda na porzucony. Na nowej stronie planowany jest feed z IG („TUTAJ WLECI INSTA”), więc profil trzeba ożywić przed startem strony.
 
 ## Filary treści (propozycja)
 
-- ~40% proces i kulisy realizacji
-- ~25% metamorfozy i błędy (przed/po)
-- ~20% abonament w praktyce
+- ~40% proces i kulisy realizacji brandingu i www (z nazwą klienta)
+- ~25% metamorfozy i błędy (przed/po, rebranding, stare vs nowe strony)
+- ~20% opieka „przed, w trakcie, po” – co dzieje się z klientem przed projektem i po oddaniu (strategia, wdrożenie, kampania, historia współpracy na lata)
 - ~15% Anna + opinie klientów
 
 Rytm: 2 reelsy tygodniowo + stories z kulis, bez przerw dłuższych niż tydzień.

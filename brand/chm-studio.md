@@ -47,6 +47,8 @@ Pełny zakres: strategia (audyt marki, audyt strony), branding, projekty graficz
 - Na IG mówi Anna w 1. osobie („projektuję”, „dla mnie”), studio jako „my” przy zespole i abonamencie.
 - Konkret zamiast ogólników: nazwa klienta, problem, decyzja, efekt.
 - Bez korpomowy i bez przesadnych emoji.
+- Teksty mówione pisz jak rozmowę: krótkie zdania, lekka autoironia, słowa Anny („szewc bez butów”, „smutne tabelki w Wordzie”, „moja prawa ręka”). Wzorzec, który Annie się spodobał: `posty/01-reel-wracam-po-roku.md`.
+- Unikaj: „mój drogi” (zwracaj się neutralnie „Ty”), wyliczanek przymiotników w stylu „szybciej, przyjemniej, dokładniej”, haseł-sloganów zamiast konkretu.
 
 ## Hasła ze strony (do wykorzystania)
 

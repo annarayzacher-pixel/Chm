@@ -20,17 +20,17 @@ Tydzień 1, piątek · 35–45 s · przebitki + głos z offu lub napisy
 
 ### Tekst
 
-> Nurt. W psychologii to kierunek. W wodzie – ruch, który niesie.
+> Zrobiłam markę dla NURT-u. To ośrodek, który pomaga dzieciom, młodzieży i ich rodzicom.
 >
-> Dla ośrodka, który pomaga dzieciom, młodzieży i rodzinom, trudno o lepsze słowo.
+> Nazwa ma dwa znaczenia – nurt w psychologii i nurt rzeki. I od tej rzeki wszystko się zaczęło.
 >
-> Kolor? Ciemny turkus. Jak spokojna rzeka, która prowadzi dziecko. Nie zawsze jest łatwo, bywają zawirowania. Ale rzeka dopasowuje się do dziecka.
+> Turkus, bo to spokojna woda, która prowadzi dziecko. Czasem są zawirowania, ale rzeka się do niego dopasowuje.
 >
-> W znaku jest fala. I pomarańczowa kulka – energia dziecka. Najtrudniej było połączyć je tak, żeby znak był abstrakcyjny, ale czytelny.
+> W logo jest fala i pomarańczowa kulka – to energia dziecka. Powiem szczerze, nad tym znakiem siedziałam najdłużej.
 >
-> A strona? Nie zaczyna się od oferty. Zaczyna się od zdań, przy których rodzic myśli: „u nas w domu jest dokładnie tak”. Dopiero potem proponujemy pomoc.
+> Na stronie nie zaczynamy od oferty. Najpierw rodzic ma poczuć, że dobrze trafił. Że ktoś opisuje dokładnie to, co dzieje się u niego w domu.
 >
-> Teraz oklejamy ośrodek. Pokażę, jak marka wchodzi do środka.
+> A teraz oklejamy ośrodek. Pokażę Wam, jak wyszło.
 
 ### Obraz
 

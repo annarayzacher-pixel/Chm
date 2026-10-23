@@ -9,7 +9,7 @@ W `[nawiasach]` – rzeczy do uzupełnienia przez Ciebie.
 |---|---|---|---|---|
 | 1 | 1 pon | Reel do kamery | Wracam po roku | Anna |
 | 2 | 1 śr | Karuzela | 18 lat, 500+ klientów – 5 lekcji o markach | Anna |
-| 3 | 1 pt | Reel | Stwórz ze mną markę: [najnowszy branding] | Proces |
+| 3 | 1 pt | ? | **Wolny slot** – „Zanim narysuję cokolwiek” albo Instytut Luisa. NURT przesunięty na termin po oklejeniu lokalu (`posty/03-…`) | Proces |
 | 4 | 2 pon | Reel | Metamorfoza strony [klient] – przed/po | Metamorfoza |
 | 5 | 2 śr | Karuzela | Strona oddana. I co dalej? | Opieka – po |
 | 6 | 2 pt | Reel | [X] lat z jedną marką – historia współpracy | Opieka – historia |
